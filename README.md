@@ -20,6 +20,13 @@
 ## Fly Far
 **Жанр :** *Аркады, казуальные* <br><br>
 **Описание :** *Зарабатывай монеты, покупай улучшений и лети как можно дальше.* <br><br> 
-**Платформа :** *Android* <br><br>
+**Платформа :** *WEB* <br><br>
 **Ссылки :** *[Яндекс игры](https://yandex.ru/games/app/419269?utm_source=app_page)*
 <video src='https://github.com/user-attachments/assets/14a3ad98-72f8-4e23-a5ae-60cc487bd950'/>
+
+## Cube rush
+**Жанр :** *Аркады, казуальные* <br><br>
+**Описание :** *3D раннер с постепенно ускоряющимися препятствиями.* <br><br> 
+**Платформа :** *WEB* <br><br>
+**Ссылки :** *[Яндекс игры](https://yandex.ru/games/app/404156#info)*
+<video src='https://github.com/user-attachments/assets/498f0f3e-9ab1-4077-bed2-392223dedac6'/>
