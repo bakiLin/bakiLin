@@ -16,3 +16,10 @@
 **Платформа :** *Android* <br><br>
 **Ссылки :** *[Google Play](https://play.google.com/store/apps/details?id=com.Ahmet.HaunTedPawzsimulatoredition&hl=ru)*
 <video src='https://github.com/user-attachments/assets/39d2875e-5e62-4d59-95d8-7059f6187715'/>
+
+## Fly Far
+**Жанр :** *Аркады, казуальные* <br><br>
+**Описание :** *Зарабатывай монеты, покупай улучшений и лети как можно дальше.* <br><br> 
+**Платформа :** *Android* <br><br>
+**Ссылки :** *[Яндекс игры](https://yandex.ru/games/app/419269?utm_source=app_page)*
+<video src='https://github.com/user-attachments/assets/14a3ad98-72f8-4e23-a5ae-60cc487bd950'/>
