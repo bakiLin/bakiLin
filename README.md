@@ -9,3 +9,10 @@
 **Описание :** *Симулятор супермаркета от первого лица* <br><br> 
 **Платформа :** *Android* <br>
 <video src='https://github.com/user-attachments/assets/6c4e7881-1ccd-4e67-b31c-cf21da91b5c6'/>
+
+## Ghostly Tails
+**Жанр :** *Прикрючение, головоломка* <br><br>
+**Описание :** *Отважному щенку необходимо попасть в призрачный особняк и спасти своего похищенного хозяина.* <br><br> 
+**Платформа :** *Android* <br><br>
+**Ссылки :** *[Google Play](https://play.google.com/store/apps/details?id=com.Ahmet.HaunTedPawzsimulatoredition&hl=ru)*
+<video src='https://github.com/user-attachments/assets/39d2875e-5e62-4d59-95d8-7059f6187715'/>
