@@ -1,7 +1,8 @@
 ## Into the mainframe
 **Жанр :** *3D платформер, головоломка* <br><br>
 **Описание :** *3D-головоломка платформер, где необходимо управлять платформами, нажимая кнопки. Правильная комбинация кнопок меняет траекторию платформ, позволяя двигаться дальше.* <br><br>
-**Платформа :** *PC* <br>
+**Платформа :** *PC* <br><br>
+**Ссылки :** *[Itch.io](https://b4kilin.itch.io/into-the-mainframe)*
 <video src='https://github.com/user-attachments/assets/fb5ff889-cd30-4e69-9e6f-c5bac73c891e'/>
 
 ## Pizza Shop 3D
