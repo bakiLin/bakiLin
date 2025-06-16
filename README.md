@@ -8,7 +8,8 @@
 ## Pizza Shop 3D
 **Жанр :** *Симулятор* <br><br>
 **Описание :** *Симулятор супермаркета от первого лица* <br><br> 
-**Платформа :** *Android* <br>
+**Платформа :** *Android* <br><br>
+**Ссылки :** *[Google Play](https://play.google.com/store/apps/details?id=com.ahmet.pizzashopfoodsimulator&pcampaignid=web_share)*
 <video src='https://github.com/user-attachments/assets/6c4e7881-1ccd-4e67-b31c-cf21da91b5c6'/>
 
 ## Ghostly Tails
